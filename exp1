@@ -10,3 +10,10 @@ print(f"Median (Middle Score): {median_value}")
 print(f"Mode (Most Frequent Score): {mode_value}")
 print(f"Variance (Score Spread): {variance_value}")
 print(f"Standard Deviation (Score Deviation): {std_dev_value}")
+
+output:
+Mean (Average Score): 93.4
+Median (Middle Score): 95.0
+Mode (Most Frequent Score): 97
+Variance (Score Spread): 29.155555555555555
+Standard Deviation (Score Deviation): 5.399588461684423
